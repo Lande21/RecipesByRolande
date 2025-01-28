@@ -9,4 +9,5 @@ A repository to keep track of my recipes (in the works)
  - Pasta, and Asparagus
  - Beef Meatballs with spices and thickness for pasta, drizzled parmesan and red chilli
  - Sweet popatoes with stew
+ - Rice with veggies mixed
 

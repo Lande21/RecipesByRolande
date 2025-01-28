@@ -10,4 +10,6 @@ A repository to keep track of my recipes (in the works)
  - Beef Meatballs with spices and thickness for pasta, drizzled parmesan and red chilli
  - Sweet popatoes with stew
  - Rice with veggies mixed
+ - black beans
+ - 380F , Chicken on 1hr
 

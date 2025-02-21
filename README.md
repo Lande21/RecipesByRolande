@@ -14,4 +14,5 @@ A repository to keep track of my recipes (in the works)
  - 380F , Chicken on 1hr
  - Carrot rice (jasmine )
  - Salmon half sauted and baked, with rice and oven roasted brussels sprouts
+ - Favorite winter soup recipe ( celery, carrots, potatoes, creamy chicken , broth, and spinach)
 

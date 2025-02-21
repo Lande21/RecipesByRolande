@@ -13,4 +13,5 @@ A repository to keep track of my recipes (in the works)
  - black beans, olive oil and red onion
  - 380F , Chicken on 1hr
  - Carrot rice (jasmine )
+ - Salmon half sauted and baked
 
